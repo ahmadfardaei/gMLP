@@ -53,4 +53,4 @@ $Z$–*the output of activation functiona and the input of SGU*– is splitted i
 At the end, we add the embedded input into $Y$ and for better performance, we can repeat this block for $L$ times
 
 
-![Alt text for the image]([images](https://github.com/ahmadfardaei/gMLP/blob/main/images/gMLP.png)https://github.com/ahmadfardaei/gMLP/blob/main/images/gMLP.png)
+![Alt text for the image](images/gMLP.png)
